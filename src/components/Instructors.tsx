@@ -33,10 +33,16 @@ const instructors = [
     id: 5,
     name: "Tanyo ",
     designation: "Marketing manager",
-    image: "/photos/tanyo.png",
+    image: "/photos/tanyo1.jpeg",
   },
   {
     id: 6,
+    name: "mata ",
+    designation: "Fashion Artist",
+    image: "/photos/mamata.jpeg",
+  },
+  {
+    id: 7,
     name: "JD",
     designation: "web Developer",
     image: "/photos/Jd.jpeg",
